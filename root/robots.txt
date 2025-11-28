@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /donation/
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/seminar-site/sitemap.xml
+Sitemap: https://Envy-95.github.io/seminar-site/sitemap.xml
